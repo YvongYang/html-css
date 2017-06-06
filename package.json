@@ -1,0 +1,25 @@
+{
+  "name": "yang",
+  "version": "1.0.0",
+  "description": "My first project for html and css",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-cssmin": "^2.2.0",
+    "grunt-contrib-stylus": "^1.2.0"
+  },
+  "scripts": {
+    "test": "nothing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YvongYang"
+  },
+  "author": "yang",
+  "license": "ISC"
+}
